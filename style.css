@@ -1,0 +1,48 @@
+body {
+    background-color: cadetblue;
+    border: solid wheat 5px;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 50px;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    font-weight: bolder;
+    font-style: oblique;
+    color: rgba(36, 36, 107, 0.783)
+    
+}
+
+.contenedor {
+    background-color: rgb(245, 245, 119);
+    padding: 35px;
+}
+
+.lista {
+    padding: 0;  
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    
+}
+
+.lista li {
+    margin-right: auto;
+    padding: 15px 20px;
+    font-size: 25px;
+    font-weight: 900;
+    color:blueviolet;
+    text-align: center;
+    
+}
+
+
+
+
+
+
